@@ -1,0 +1,6 @@
+.mot*
+*.bbl
+*.blg
+*.aux
+*.log
+latex_*
